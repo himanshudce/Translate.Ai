@@ -174,18 +174,4 @@ List of Metrics
         * `score`: cumulative WER score for each evaluation sample.
 
 
-Contributors
-------------
-
-* Yusuke Oda (@odashi) - Most coding
-
-We are counting more contributions from you.
-
-
-Contact
--------
-
-If you find an issue, please contact Y.Oda
-* @odashi_t on Twitter (faster than E-Mail)
-* yus.takara (at) gmail.com
 
